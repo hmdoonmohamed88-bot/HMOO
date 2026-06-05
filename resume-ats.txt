@@ -1,0 +1,62 @@
+MOHAMED HAMED AHMED
+Software Developer | SAP Finance Specialist | SAP Financial Accounting Trainer
+
+Location: Sudan
+Phone: +971 56 180 7190
+Email: hmdoon.mohamed88@gmail.com
+
+PROFESSIONAL SUMMARY
+Software Developer, SAP Financial Accounting Trainer, and Electronic Accounting Systems Specialist with experience in ERP solutions, SAP finance concepts, financial platforms, dashboards, database-driven applications, reporting systems, and digital transformation. Focused on building practical business technology for accounting, operations, education management, and enterprise reporting.
+
+CORE SKILLS
+Software Development
+SAP ERP
+SAP FICO
+SAP Financial Accounting
+ERP Systems
+Financial Accounting Systems
+Electronic Accounting
+HTML
+CSS
+JavaScript
+Database Management
+Business Analysis
+Digital Transformation
+Reporting Dashboards
+Financial Reporting
+Business Process Improvement
+System Analysis
+
+PROFESSIONAL PROFILE
+Develops web applications, dashboards, data-driven tools, and custom business systems using responsive interfaces and structured software design.
+Supports electronic accounting systems, financial reports, transaction tracking, operational dashboards, and management control tools.
+Trains users and professionals on SAP Financial Accounting, SAP FICO concepts, ERP workflows, reporting flows, and business system adoption.
+
+EXPERIENCE FOCUS
+SAP and ERP Support
+- Explains SAP finance workflows and supports ERP process understanding.
+- Helps teams improve business data quality, reporting readiness, and system usage.
+- Connects finance requirements with practical technology solutions.
+
+Application Development
+- Builds accounting systems, dashboards, educational platforms, and management applications.
+- Creates interfaces for reporting, tracking, and operational decision-making.
+- Uses structured analysis to convert business needs into usable software.
+
+Digital Transformation
+- Supports organizations moving from manual workflows to modern digital systems.
+- Improves visibility across finance, operations, reporting, and administration.
+- Focuses on reliable, practical, and business-ready implementation.
+
+PROJECTS
+Electronic Accounting System
+Accounting management platform with financial reports, transaction tracking, financial controls, and operational analytics.
+
+ERP Management Dashboard
+Executive dashboard for monitoring financial performance, business operations, KPIs, and reporting indicators.
+
+Educational Management Platform
+School and training management system covering students, exams, certificates, records, and progress tracking.
+
+EDUCATION
+Computer Science and Information Technology
